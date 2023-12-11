@@ -1,3 +1,1 @@
-Using Django REST API
-Cloudinary for media cloud
-drf_yasg for documentation
+Using Django REST API, Cloudinary for media cloud and drf_yasg for documentation
