@@ -1,0 +1,31 @@
+.main {
+    background-color: #181c20;
+    height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    overflow: hidden
+}
+
+.innerContent {
+    width: 70%;
+}
+
+.item {
+    background-color: #21262b;
+    cursor: pointer;  
+    padding: 24px;
+    margin: 2em 0 2em 0;
+    display: grid;
+    grid-template-columns: 1fr 11fr
+}.rightItems {
+    margin-left: 24px;
+}
+
+.img {
+    border-radius: 100%;
+}
+
+.imgContainer {
+    margin: auto;
+}
