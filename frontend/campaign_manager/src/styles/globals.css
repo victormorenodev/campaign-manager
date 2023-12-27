@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;700&family=Nunito&display=swap');
+
+/** * {
+  padding: 0px;
+  margin: 0px;
+} */
+
+html, body {
+  font-family: 'Merriweather Sans', sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0
+}
+
+p {
+  font-family: 'Nunito', sans-serif
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline
+}
